@@ -7,6 +7,9 @@ Selective Suspend - Disabled
 Speed & Duplex - 1.0 Gbps Full Duplex
 System Idle Power Saver - Disabled
 Ultra Low Power Mode - Disabled
+v4 changes:
+Modified to be able to run on Windows 11
+
 
 
 
